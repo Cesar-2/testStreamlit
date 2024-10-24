@@ -13,7 +13,7 @@ df = pd.DataFrame({
   'second column': [10, 20, 30, 40]
 })
 
-st.write("Here's our first attempt at using data to create a table:")
+st.write("Devox")
 st.write(df)
 
 st.sidebar.write("This is a sidebar")
